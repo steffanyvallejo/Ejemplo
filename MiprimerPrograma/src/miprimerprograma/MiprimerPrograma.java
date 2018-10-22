@@ -16,6 +16,13 @@ public class MiprimerPrograma {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String e=ejemplo("Angela");
+        System.out.println(e);
     }
+    
+    private String ejemplo(String s){
+		String a= "hola espero estes con la ingeniera ";
+		return a+s;
+	}
     
 }
