@@ -19,7 +19,7 @@ public class MiprimerPrograma {
         String e="hola";
         System.out.println(e);
     }
-    
+
     String ejemplo(String s){
 		String a= "hola espero estes con la ingeniera ";
 		return a+s;
